@@ -1,6 +1,4 @@
-<div style="text-align: right;">
-konnichiwa
-</div>
+<div style="text-align: right;">konnichiwa</div>
 
 ## I'm Taichi Maeda
 🏫Doshisha University Student  
