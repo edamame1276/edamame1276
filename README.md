@@ -1,4 +1,7 @@
 # I'm Taichi Maeda
+🏫Doshisha University Student  
+📚Studying XR and Robot.  
+
 
 ## 📢Status📢
 <!-- リポジトリステータス -->
