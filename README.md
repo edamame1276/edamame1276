@@ -1,14 +1,23 @@
+<div style="text-align: right;">
+  <table>
+    <tr>
+      <td>Total visitors</td>
+      <td><img src="https://profile-counter.glitch.me/melty1276/count.svg" alt="" /></td>
+    </tr>
+  </table>
+</div>
+
 ## I'm Taichi Maeda
 🏫Doshisha University Student  
 📚Studying XR and Robot.  
-
-<table>
-  <tr>
-    <td>Total visitors</td>
-    <td><img src="https://profile-counter.glitch.me/melty1276/count.svg" alt="" /></td>
-  </tr>
-</table>
-
+<div style="text-align: right;">
+  <table>
+    <tr>
+      <td>Total visitors</td>
+      <td><img src="https://profile-counter.glitch.me/melty1276/count.svg" alt="" /></td>
+    </tr>
+  </table>
+</div>
 
 ### 📢Status📢
 <!-- リポジトリステータス -->
