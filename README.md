@@ -1,23 +1,20 @@
-<div style="text-align: right;">konnichiwa</div>
-
-## I'm Taichi Maeda
-🏫Doshisha University Student  
-📚Studying XR and Robot.  
-<div style="text-align: right;">
 <table>
   <tr>
     <td>Total visitors</td>
     <td><img src="https://profile-counter.glitch.me/melty1276/count.svg" alt="" /></td>
   </tr>
 </table>
-</div>
+
+## I'm Taichi Maeda
+🏫Doshisha University Student  
+📚Studying XR and Robot.  
 
 ### 📢Status📢
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=melty1276&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/melty1276/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=melty1276&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/melty1276/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melty1276&layout=compact&theme=tokyonight)](https://github.com/melty1276/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melty1276&layout=compact&theme=vue-dark)](https://github.com/melty1276/)
 
 <!--
 **melty1276/melty1276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
