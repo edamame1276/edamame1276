@@ -1,9 +1,16 @@
-# I'm Taichi Maeda
+## I'm Taichi Maeda
 🏫Doshisha University Student  
 📚Studying XR and Robot.  
 
+<table>
+  <tr>
+    <td>Total visitors</td>
+    <td><img src="https://profile-counter.glitch.me/melty1276/count.svg" alt="" /></td>
+  </tr>
+</table>
 
-## 📢Status📢
+
+### 📢Status📢
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=melty1276&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/melty1276/)
 
