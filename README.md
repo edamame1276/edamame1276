@@ -11,10 +11,10 @@
 
 ### 📢Status📢
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=melty1276&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/melty1276/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=melty1276&hide=contribs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/edamame1276/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melty1276&layout=compact&theme=vue-dark)](https://github.com/melty1276/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melty1276&layout=compact&theme=vue-dark)](https://github.com/edamame1276/)
 
 <!--
 **melty1276/melty1276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
