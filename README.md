@@ -5,9 +5,9 @@
   </tr>
 </table>
 
-## I'm Taichi Maeda
-🏫Doshisha University Student  
-📚Studying XR and Robot.  
+## Hello I`m edamame
+🏫NAIST
+📚Studying XR  
 
 ### 📢Status📢
 <!-- リポジトリステータス -->
