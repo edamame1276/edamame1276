@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-## Hello I`m edamame
+## Hello I'm edamame
 🏫NAIST
 📚Studying XR  
 
